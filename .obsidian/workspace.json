@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "96b4d5cff2c5ac4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "337eb83456da9981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab4f3531dd846d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektronika 1.02.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Elektronika 1.02"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe33ed0322f9932e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f56bddd71d92ff82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aaa8ef05e06b1c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d9636b8007687c26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "826a35af8c8978fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4eff8ae7c0633358",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1624a40cb763ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a478274f4893375",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Elektronika 1.01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Elektronika 1.01"
+            }
+          },
+          {
+            "id": "2fdfe13740f118dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Elektronika 1.01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Elektronika 1.01"
+            }
+          },
+          {
+            "id": "ec3f2b9411abe5e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7671711200c8181c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Elektronika 1.01.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Elektronika 1.01"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ab4f3531dd846d30",
+  "lastOpenFiles": [
+    "Elektronika 1.02.sync-conflict-20250426-221132-WIZNJ3W.md",
+    "Elektronika 1.01.md",
+    "Elektronika 1.02.md",
+    "Elektronika_1_02_1.jpg",
+    "Elektronika_1_02_8.jpg",
+    "Elektronika_1_02_3.jpg",
+    "Elektronika_1_02_4.jpg",
+    "Elektronika_1_02_12.jpg",
+    "Elektronika_1_02_13.jpg",
+    "Elektronika_1_02_11.jpg",
+    "Elektronika_1_02_7.jpg",
+    "Elektronika_1_02_5.jpg",
+    "Elektronika_1_02_6.jpg",
+    "Untitled.md"
+  ]
+}
