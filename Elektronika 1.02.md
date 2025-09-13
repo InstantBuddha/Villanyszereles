@@ -107,6 +107,9 @@ P03
 ### A fogyasztók soros eredője
 Ha sorba vannak kötve a fogyasztók, ellenállások, az eredőjük az összegük lesz.
 
+Jó leírás:
+https://www.electronics-tutorials.ws/resistor/res_3.html
+
 ### Series Equivalent Resistance (English)
 
 When resistors are connected **in series**, their equivalent behaves like a single resistor whose value is the sum of the individual resistances.
@@ -135,6 +138,9 @@ P04
 ![[Elektronika_1_02_4.jpg]]
 
 ## Parallel Equivalent Resistance
+
+Nagyon jó leírás:
+https://www.electronics-tutorials.ws/resistor/res_4.html
 
 When resistive elements (or “loads”) are connected **in parallel**, they share the same voltage but carry different branch currents. The total current divides among the branches, and you can replace the whole network by a single equivalent resistor 
 $$
@@ -212,6 +218,48 @@ R_\mathrm{eq} < \min\{R_1, R_2, \dots, R_n\}.
 $$
 
 ---
+## Calculating Parallel Equivalent Resistance
+
+When $n$ resistors $R_1, R_2, \dots, R_n$ are connected in parallel:
+
+1. **Common voltage** $U$ appears across each resistor.  
+2. **Branch currents** are  
+   $$
+   I_k = \frac{U}{R_k},\quad k = 1, \dots, n.
+   $$
+3. **Total current** by KCL:  
+   $$
+   I_{\text{tot}} = \sum_{k=1}^n I_k = \sum_{k=1}^n \frac{U}{R_k} = U \sum_{k=1}^n \frac{1}{R_k}.
+   $$
+4. **Define** $R_{\text{eq}}$ by  
+   $$
+   I_{\text{tot}} = \frac{U}{R_{\text{eq}}}.
+   $$
+5. **Equate** and solve for $R_{\text{eq}}$:  
+   $$
+   \frac{U}{R_{\text{eq}}} = U \sum_{k=1}^n \frac{1}{R_k} \quad\Longrightarrow\quad \frac{1}{R_{\text{eq}}} = \sum_{k=1}^n \frac{1}{R_k}.
+   $$
+
+---
+
+### Two resistors ($n = 2$)
+
+$$
+\frac{1}{R_{\text{eq}}} = \frac{1}{R_1} + \frac{1}{R_2}
+\quad\Longrightarrow\quad
+R_{\text{eq}} = \frac{1}{\displaystyle \frac{1}{R_1} + \frac{1}{R_2}} = \frac{R_1 R_2}{R_1 + R_2}.
+$$
+
+---
+
+### Three or more resistors ($n \ge 3$)
+
+
+$$
+\frac{1}{R_{\text{eq}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}
+\quad\Longrightarrow\quad
+R_{\text{eq}} = \frac{1}{\displaystyle \sum_{k=1}^n \frac{1}{R_k}}.
+$$
 
 
 P05
@@ -229,6 +277,11 @@ P09
 ![[Elektronika_1_02_9.jpg]]
 P10
 ![[Elektronika_1_02_10.jpg]]
+## vegyes (soros és párhuzamos) kapcsolás egyszerre:
+
+Jó leírás:
+https://www.electronics-tutorials.ws/resistor/res_5.html
+
 P11
 ![[Elektronika_1_02_11.jpg]]
 P12
