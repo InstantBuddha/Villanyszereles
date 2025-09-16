@@ -11,8 +11,6 @@
 2. Turn the power on.
 3. It is easiest to touch a fixed Neutral point (such as the neutral rail) and Line point.
 
-Great — I kept **all your text exactly as you wrote it** and only changed the arithmetic divisions to mathematical fraction form so they render with a horizontal line in Obsidian (MathJax). You can copy-paste this directly into an Obsidian note. I used LaTeX math blocks (`$$ ... $$`) for the fractions so they display clearly.
-
 ---
 
 ### Számítások:
@@ -70,7 +68,7 @@ Amikor villan a mérő, elindítom a stoppert és mérem mikor villan megint.
 
 Energy meter pulse / power calculation
 
-- Left text: **0,5 kWh/imp** (or “0,5 kWh/imp” — looks like energy per pulse)
+- Left text: **0,5 kWh/imp** (or “0,5 kWh/imp” — energy per pulse)
     
 - **t_imp = 18 sec** (time per pulse measured as 18 s)
     
