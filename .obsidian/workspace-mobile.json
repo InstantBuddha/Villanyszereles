@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feszultsegmentesites_lepesei_es_FAM.md",
+                "file": "Mérések_Motorok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feszultsegmentesites_lepesei_es_FAM"
+              "title": "Mérések_Motorok"
             }
           }
         ],
@@ -339,8 +339,10 @@
   },
   "active": "f33fd9ba31d6917a",
   "lastOpenFiles": [
-    "IEC_BESOROLASOK.md",
     "Feszultsegmentesites_lepesei_es_FAM.md",
+    "Mérések.md",
+    "Pasted image 20250916124544.png",
+    "IEC_BESOROLASOK.md",
     "Motorok_1.md",
     "Épületvillamosság 1_11.md",
     "szelektivitás.md",
@@ -367,7 +369,6 @@
     "Epuletvillamossag_1_02_8.jpg",
     "Epuletvillamossag_1_02_7.jpg",
     "Epuletvillamossag_1_02_6.jpg",
-    "Epuletvillamossag_1_02_5.jpg",
     "README.md"
   ]
 }
