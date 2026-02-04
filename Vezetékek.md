@@ -172,6 +172,15 @@ Soft and solid conductor is made out of annealed copper wire. Copper core is PVC
 
 [H07VV-U 5G1.5](https://www.google.com/search?client=ubuntu-sn&hs=3ea&sca_esv=1cf3b1e2cbd119f3&channel=fs&sxsrf=ANbL-n5KVjEGS31gneqPRXchodf8yQtk8w:1770025057632&q=H07VV-U+5G1.5&nirf=H07V-U+5G1.5&sa=X&ved=2ahUKEwjW2baWwbqSAxV_2gIHHVgtFCUQ8BYoAXoECA8QAg&biw=1850&bih=968&dpr=1&aic=0)
 
+
+[H07V-R-4](https://www.kabelring.hu/kabelek/H07V-R)
+-Régi elnevezése: "MCu vezeték"
+-Kis és közepes mechanikai igénybevételekre használható, hajtogatni csak szerelés alatt szabad. Kapcsolószekrényekbe és egyéb általános ipari berendezések bekötésére használható, mozgás és vibráció mentes területen.
+
+[H07RN-F 5G4](https://www.kabelkereskedo.hu/termek/h07rn-f-5x4-450750v-fekete-sodrott-rez-gumikabel-gt)
+R: Rubber
+N: Polikloropén (neoprene) --> műgumi
+F: faszán hajlik
 ## VDE szabvány vezetékjelölési rendszer
 
 [# Erőátviteli kábelek jelölése VDE szerint](https://www.partnercable.hu/hu/szolgaltatasok/kisokos/eroatviteli-kabelek-jelolese-vde-szerint)
@@ -212,3 +221,9 @@ Az erek keresztmetszete 120 mm², a koncentrikus, hullámosított vezető keresz
 | Typical application    | Utility distribution | Wet underground  | Industrial | High-reliability HV |
 
 [NYCWY 4x240 SM/120](https://shop.haluxvill.hu/kabelek/foldkabelek-kisfeszultsegu-eroatviteli-kabelek-061-kv/nycwy-rez/109829-nycwy-4x240120-nycwy-4x240-sm120-rez-foldkabel-061kv)
+
+[NYCWY 4x50/25 RE csak szektoriálisat találtam](https://www.kabelkereskedo.hu/termek/nycwy-4x5025-0-61kv-rez-foldkabel-koncenikus-rez-vezeto-elleniranyu-rezszalag-arnyekolassal-fekete)
+
+[NYCWY 4x120/70 SM](https://www.kabelkereskedo.hu/termek/nycwy-4x12070-0-61kv-rez-foldkabel-koncenikus-rez-vezeto-elleniranyu-rezszalag-arnyekolassal-fekete)
+
+[NAYCWY 4x95/50 SM](https://www.mentavill.hu/termek/naycwy-4x95-50-sm-0-6-1-kv-fekete-62577)
